@@ -1,6 +1,6 @@
 # 08 — Set Up a Project for Continuing Work
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><em>Project guide: separate sources, instructions and chats; keep approved learning and check retrieval in a fresh conversation.</em></p>
 <p>A <strong>Project</strong> groups continuing work, usually with conversations, source material and instructions. Use one when you return to the same topic; a single invitation does not need one. Saving files, instructions and conversations are different actions. Do not assume every new chat knows what happened in another.</p>

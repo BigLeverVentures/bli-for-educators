@@ -1,6 +1,6 @@
 # Prompting and Workflows — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Use the saved method in a new conversation or another capable assistant. Which facts must you provide again? What changed in the result? Optionally record one condition under which you would stop using this workflow. Carry the correction into its instructions and checks.</p>

@@ -1,6 +1,6 @@
 # Prompting and Workflows — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>A reusable workflow includes its task, inputs, method, output and checks. A prompt without context can hide assumptions. A baseline is the natural question you would otherwise ask with the same information and capabilities. Compare useful outcomes, not length or elaborate roles. Role-play can expose a perspective but is not independent expert review.</p>

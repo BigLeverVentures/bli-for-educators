@@ -1,6 +1,6 @@
 # Ex07 — Industry Researcher
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Answer an industry question with sources you can check and limits you can understand.</p>
 <h2>Start with your own task</h2>

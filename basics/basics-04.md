@@ -1,6 +1,6 @@
 # 04 — Ask for What You Want
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>A <strong>prompt</strong> is the message or instructions you give the assistant. It can be a plain sentence. You do not need magic words. A useful request explains the job and gives the information needed to do it.</p>
 <h2>Give enough to work with</h2>

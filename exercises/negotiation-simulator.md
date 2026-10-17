@@ -1,6 +1,6 @@
 # Ex03 — Negotiation Simulator
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Rehearse a conversation where interests, limits, and tradeoffs matter.</p>
 <h2>Start with your own task</h2>

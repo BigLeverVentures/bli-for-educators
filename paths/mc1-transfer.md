@@ -1,6 +1,6 @@
 # Everyday AI — Practical Examples — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Try a different role or a different email recipient. Keep the method, change the context, and check whether the result still serves that person. Optionally describe what you changed, why it helped, and what you will check next. Keep private source material with you.</p>

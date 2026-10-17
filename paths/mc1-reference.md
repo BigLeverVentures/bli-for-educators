@@ -1,6 +1,6 @@
 # Everyday AI — Practical Examples — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>Context is the information the assistant needs for this task: purpose, audience, source material and constraints. An instruction asks it to do something; a source supports a factual claim. Plan critique asks whether the approach fits. Result critique asks whether the output meets the purpose. A fluent answer can still contain unsupported facts. Your decision after critique is part of the work.</p>

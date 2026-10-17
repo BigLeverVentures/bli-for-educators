@@ -1,6 +1,6 @@
 # Product Thinking — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Use Stakeholder Map and User Stories with real workflow notes, or explicitly labeled hypotheses when evidence is not yet available. Distinguish the people using, buying, paying for and operating the product. Choose a small useful outcome and observable acceptance checks before turning the scope into a roadmap.</p>

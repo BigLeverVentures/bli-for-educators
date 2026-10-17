@@ -1,6 +1,6 @@
 # Product Thinking — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>An outcome is a useful change for someone; a feature is one possible means. A user story describes a need and its reason. Acceptance checks describe observable success and relevant failure cases. A roadmap communicates priorities and learning; it need not invent dates. Unknown scores stay unknown. Tradeoffs are choices between benefits, costs and risks under constraints.</p>

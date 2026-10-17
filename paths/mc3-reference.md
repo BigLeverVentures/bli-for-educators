@@ -1,6 +1,6 @@
 # Digital Marketing — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>A value proposition states who benefits, what useful change they get and why they should believe the claim. A call to action gives a concrete next step. A comparison is informative when the question and conditions are clear. If audience, price, message and channel all change, you cannot confidently attribute the result to wording alone. Choose the metric for the decision you need to make, and keep limitations visible.</p>

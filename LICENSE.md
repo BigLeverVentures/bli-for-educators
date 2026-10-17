@@ -1,13 +1,78 @@
-# Reuse permissions
+# Big Lever Educator Teaching-Use License — Version 1.0
 
-Copyright 2026 Big Lever Institute. To the extent applicable rights exist, the Institute's original educational text, lesson prompts and templates in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The [legal code](https://creativecommons.org/licenses/by/4.0/legalcode.en) controls.
+Copyright 2026 Big Lever Institute.
 
-You may share and adapt that material, including commercially, with appropriate credit, a license link and an indication of changes. Do not suggest endorsement or add restrictions inconsistent with the license. Our own programming remains free; the reuse license does not require every adaptation to use our operating model.
+## Scope
 
-Suggested attribution:
+This license covers the Institute's original educational text, lesson prompts,
+templates, educator resources and generated page styling distributed in this
+repository (the “Covered Materials”). It is a custom teaching-use license, not an
+unrestricted open-source license. The Institute offers this distribution under
+these terms from October 17, 2026.
 
-> Adapted from Big Lever Institute for Educators, https://github.com/BigLeverVentures/bli-for-educators, CC BY 4.0. Changes: [describe your changes].
+Material carrying its own separate license keeps that license. In particular, the
+verification code under `tools/` retains its [MIT license](tools/LICENSE).
 
-External linked materials, services and their content retain their own terms. Institute names and logos are not licensed as branding for another organization. No logos or third-party source documents are bundled in this release. Personal, privacy and other rights may still apply. No warranty is provided.
+### Previously granted permissions
 
-The original verification code under `tools/` is licensed separately under [MIT](tools/LICENSE). Generated page styling is included with the educational release under CC BY 4.0.
+The [earlier public curriculum release](https://github.com/BigLeverVentures/bli-for-educators/tree/21a81c6b8f26aa5bc6b65fc2ad9f7a13af2f5a9c)
+was offered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Permissions already granted for that material remain valid, including commercial
+reuse and lawful onward redistribution under CC BY. Those prior rights apply to
+the unchanged material regardless of which copy is used; obtaining a copy before
+this notice changed is not a condition. This teaching-use offer does not revoke
+or narrow those prior rights. New original material not previously licensed under
+CC BY is covered by the teaching-use terms unless separately identified.
+Public-domain rights, fair use and other legal exceptions remain unaffected.
+
+## Permission for teaching
+
+You may use, copy, modify, translate and adapt the Covered Materials to teach or support
+learning. You may distribute originals or adaptations without a charge for those
+materials to learners and other educators, including through websites, learning
+communities, Git repositories and provider-hosted guides. This includes teaching with adaptations on your website or learning-management
+system, and building guides around curriculum you have permission to use.
+
+You may receive ordinary teaching compensation, and an educational institution may
+charge its normal tuition or course fees, including distributing materials to
+enrolled learners through a learning-management system. That does not permit selling or licensing
+the Covered Materials or adapted guides as a product, charging specifically for access
+to them, or using course enrollment merely to disguise such a sale. Learners may
+pay their chosen AI provider for its service; that payment is not a sale of this kit.
+
+## Conditions and limits
+
+1. Preserve this license, copyright notices, separately licensed material notices,
+   and attribution to Big Lever Institute. Identify substantive changes and name
+   the educator responsible for an adaptation. Do not imply Institute endorsement.
+2. Do not repackage for sale, resell, commercially license, or offer paid access to the Kit
+   Materials or adaptations of them, whether alone or as a bundled product. The
+   permission granted here is for teaching and learning, not resale or a commercial
+   assistant service. Other uses require separate written permission.
+3. Pass on these same teaching-use permissions and restrictions for the Kit
+   Materials and your adaptations of them. Do not impose restrictions on content
+   that has its own independent license. You may license your independent material
+   separately; clearly distinguish it from adapted Covered Materials.
+4. Names and logos are not licensed as branding for another organization. Use your
+   own branding and support contacts while retaining appropriate attribution.
+5. You are responsible for rights in curriculum and other inputs you add, your
+   deployment and privacy practices, and compliance with your provider's terms.
+
+## Learner-created work
+
+This license does not claim ownership of learner-created work or restrict its
+personal, educational, professional or commercial use. A learner-created email,
+plan, analysis or other output is distinct from republishing the Covered Materials.
+Copying Covered Materials into an output does not remove their existing conditions.
+Other people's rights and AI-provider terms may still apply.
+
+## Disclaimer and termination
+
+The Covered Materials are provided as is, without warranties of accuracy, fitness,
+availability, learning outcomes or noninfringement. To the extent permitted by law,
+the Institute and contributors are not liable for damages arising from their use.
+The permissions granted here terminate if you violate these conditions. This does
+not terminate permissions you independently hold under another license. Rights
+not expressly granted are reserved.
+
+For uses outside this permission, contact help@bigleverinstitute.org.

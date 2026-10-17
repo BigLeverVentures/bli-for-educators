@@ -1,6 +1,6 @@
 # 02 — Choose an Assistant and Open a Chat
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Your result here is an open conversation where you can type and receive a reply. Choose one service, not all three. An existing account is fine.</p>
 <h2>Choose a starting service</h2>

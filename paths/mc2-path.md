@@ -1,6 +1,6 @@
 # Startup Foundations — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Begin with Venture Problem Hypothesis to name a problem space and the customer community you want to understand. Treat the output as an initial hypothesis. Use Customer Discovery Questions to prepare questions about recent real behavior. Speak with or observe real people before moving to Field Notes; an AI rehearsal cannot supply missing fieldwork.</p>

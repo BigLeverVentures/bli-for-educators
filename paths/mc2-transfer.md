@@ -1,6 +1,6 @@
 # Startup Foundations — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Try the same problem hypothesis with a second customer community. What behavior differs? Which assumptions survive, weaken, or need another conversation? Optionally note how evidence changed your understanding and one next question. Share a redacted insight if useful, not identifying interview notes.</p>

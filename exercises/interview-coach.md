@@ -1,6 +1,6 @@
 # Ex02 — Interview Coach
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Practice explaining your experience in an interview, then improve an answer using evidence and feedback.</p>
 <h2>Start with your own task</h2>

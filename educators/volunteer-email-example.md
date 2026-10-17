@@ -83,7 +83,7 @@ Try a second fictional invitation in the same chat: invite Casey to a poster-mak
 
 Read the result: did any of Alex's name, book sorting, June date or morning hours carry over? Correct those and any invented promise before using it. You have finished when your saved template can produce a useful invitation for both cases and you can explain one thing you checked. Real messages still need accurate current facts and your approval before sending.
 
-**Attribution:** Adapted from [Email Template Library, Big Lever Institute for Educators](https://github.com/BigLeverVentures/bli-for-educators/blob/main/exercises/email-template-library.md), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: volunteer-specific task, fictional facts, shorter prompts and reuse case; email-app setup removed. Further adapted by [YOUR NAME/ORGANIZATION], [DATE].
+**Attribution:** Adapted from [Email Template Library, Big Lever Institute for Educators](https://github.com/BigLeverVentures/bli-for-educators/blob/main/exercises/email-template-library.md), [Big Lever Educator Teaching-Use License 1.0](../LICENSE.md). Changes: volunteer-specific task, fictional facts, shorter prompts and reuse case; email-app setup removed. Further adapted by [YOUR NAME/ORGANIZATION], [DATE].
 
 **Feedback:** Pilot version. Tell [YOUR FEEDBACK CONTACT] what was unclear, where you stopped or what helped. Share only fictional or redacted examples.
 
@@ -102,3 +102,5 @@ A sufficient filled draft might be: “Subject: Available to help with book sort
 - **Reuse:** the Casey draft changes the name, activity, date and hours without importing Alex's details. This tests factual reuse, not just producing another attractive email.
 
 If a willing unfamiliar colleague needs help, note exactly where. Shorten or clarify the handout, try the affected step again, and describe remaining limits honestly. Use the [adaptation guide](adapt-a-lesson.md) for attribution and publishing; use [evaluation and limits](evaluation.md) if you plan stronger claims about effectiveness.
+
+This distribution permits teaching adaptations and free sharing, including within ordinary paid teaching or tuition-funded classes. Do not repackage for sale or charge specifically for access to covered materials. Prior CC BY rights in unchanged material remain valid regardless of the copy used.

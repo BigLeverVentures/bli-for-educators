@@ -1,6 +1,6 @@
 # Ex01 — Resume Tailorer
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <div><p>Big Lever Institute · Exercise 01</p>
 <p>Turn your experience into a resume that makes the case for an interview. Match the role, strengthen the bullets, and find what could make the application better.</p>

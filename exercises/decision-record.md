@@ -1,6 +1,6 @@
 # Ex23 — Decision Record
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <div><p>Big Lever Institute · Prompt Library</p>
 <p>Keep a clear account of an important choice: what you decided, why, and what would make you reconsider.</p>

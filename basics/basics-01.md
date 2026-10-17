@@ -1,6 +1,6 @@
 # 01 — What AI Can Do for You
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><strong>BLI means Big Lever Institute.</strong> Our lessons help you use AI as a collaborator while keeping your judgment.</p>
 <p>You do not need an AI account, coding experience or special vocabulary to begin. This course takes you from choosing an assistant to getting and improving a useful result. If you already have an account, start at lesson 03. If you already use chats comfortably, choose the later skill you need.</p>

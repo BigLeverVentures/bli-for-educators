@@ -1,6 +1,6 @@
 # Product Thinking — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Introduce one new request and decide whether it enters now, waits, or replaces existing work. Explain the effect on stakeholders, scope and dependencies. Optionally note what evidence could reverse your decision and when you would review it.</p>

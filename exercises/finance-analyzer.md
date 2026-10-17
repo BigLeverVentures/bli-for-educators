@@ -1,6 +1,6 @@
 # Ex05 — Finance Analyzer
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Understand a period of spending with totals you can trace and check.</p>
 <h2>Start with your own task</h2>

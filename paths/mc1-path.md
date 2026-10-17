@@ -1,6 +1,6 @@
 # Everyday AI — Practical Examples — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Choose the task that matters now: improve a resume for a role you want, OR draft a recurring email you need to send. These are alternatives, not a requirement to do both. Provide your own redacted material or use a clearly labeled sample. Follow the selected exercise through its critique and your decision about revisions.</p>

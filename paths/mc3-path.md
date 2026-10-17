@@ -1,6 +1,6 @@
 # Digital Marketing — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Choose one audience and an offer you can describe truthfully. Use Landing Page Brief to connect its problem, promise, supporting evidence and next action. If the evidence is only a hypothesis, label it and decide what you need to learn. A completed brief does not prove demand.</p>

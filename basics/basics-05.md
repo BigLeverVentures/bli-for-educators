@@ -1,6 +1,6 @@
 # 05 — Work Through a Problem with AI
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>You can ask the assistant to help with the work itself, not just write a prompt. Bring an unfinished problem and use the conversation to find a useful way forward.</p>
 <h2>Try a guided conversation</h2>

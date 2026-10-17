@@ -1,6 +1,6 @@
 # Product Thinking — Overview and Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><strong>This is a learning path.</strong> It connects exercises stored in the Exercise Library. Follow the links to do the work, or choose one exercise directly. You do not need to complete every page.</p>
 <p>Bring a real workflow or clearly labeled hypothesis. Connect stakeholder needs to a small useful outcome, observable checks and a first priority.</p>

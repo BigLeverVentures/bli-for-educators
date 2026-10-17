@@ -1,6 +1,6 @@
 # Ex09 — Project Brain
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <div><p>Big Lever Institute · Exercise 09</p>
 <p>Build a thinking partner around a course or topic. Add sources, connect ideas, question your reasoning, and keep track of what you learn.</p>

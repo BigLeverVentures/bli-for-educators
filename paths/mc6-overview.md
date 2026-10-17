@@ -1,6 +1,6 @@
 # Prompting and Workflows — Overview and Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><strong>This is a learning path.</strong> It connects exercises stored in the Exercise Library. Follow the links to do the work, or choose one exercise directly. You do not need to complete every page.</p>
 <p>Return here after completing and inspecting useful work. Preserve a method only if it helps you repeat that work; a prompt collection is not the goal.</p>

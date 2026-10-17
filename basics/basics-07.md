@@ -1,6 +1,6 @@
 # 07 — Tell the Assistant How to Help You
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><strong>Instructions</strong> tell the assistant how to work. <strong>Context</strong> gives it relevant information. “Use short sentences” is an instruction. “The event is Tuesday” is a fact. Both can go in a message, but they do different jobs.</p>
 <h2>Try an instruction in this chat first</h2>

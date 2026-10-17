@@ -1,6 +1,6 @@
 # Prompting and Workflows — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Begin with a task you have already completed and inspected, ideally from another exercise. If you have no successful example yet, finish one useful task first. Use Workflow Library Builder to extract the working instructions, required context, output checks and known limits. Do not build a speculative prompt collection just to fill a library.</p>

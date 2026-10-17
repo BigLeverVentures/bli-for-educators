@@ -1,6 +1,6 @@
 # Coding for Shippers — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Begin with First Repository and Commit in a new harmless folder you own, or inspect an existing practice repository before adding anything. Keep a known working version. If the code is unfamiliar, use Codebase Explainer before you plan a change; it is a read-only orientation exercise.</p>

@@ -1,6 +1,6 @@
 # Ex10 — Board of Advisors
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Examine a consequential decision through different concerns before committing.</p>
 <h2>Start with your own task</h2>
