@@ -1,4 +1,4 @@
-# Big Lever Institute for Educators
+# Big Lever Institute Curriculum for Educators
 
 Practical AI lessons and resources for adapting them to your learners. For educators, nonprofits and community organizers who want to help people do useful work with AI.
 
