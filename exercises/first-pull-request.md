@@ -1,6 +1,6 @@
 # Ex19 — First Pull Request
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Let another person review a small software change before it joins the shared version.</p>
 <h2>Start with your task</h2>

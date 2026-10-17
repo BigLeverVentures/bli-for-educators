@@ -1,6 +1,6 @@
 # AI Tools and Workflows — Connected Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Begin with evidence and a useful result</h2>
 <p>Choose Project Brain for a topic you will study repeatedly, OR Industry Researcher for a bounded question. Do not do both just to complete the path. Provide readable source material and check which sources the assistant can access. If browsing is unavailable, gather current sources yourself; a stored URL alone is insufficient.</p>

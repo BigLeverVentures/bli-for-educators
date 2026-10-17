@@ -32,4 +32,4 @@ All core material here works without Skool membership. Our optional [free commun
 
 Read the Markdown lessons on GitHub or use the standalone browser pages in `site/`. Both present the same lesson bodies with prerequisite links. [Release and attribution](PROVENANCE.md) describes the included material and rights.
 
-Educational direction and original source material: Chris Myers. Curriculum adaptation, architecture and drafting: Codex, working with Chris. [CC BY 4.0](LICENSE.md) applies to our original educational material; verification code has its own MIT notice.
+Educational direction and original source material: Chris Myers. Curriculum adaptation, architecture and drafting: Codex, working with Chris. [Big Lever Educator Teaching-Use License 1.0](LICENSE.md) applies to this distribution: adapt and share for teaching; do not repackage for sale or charge specifically for access to covered materials. Ordinary paid teaching, normal tuition and learner-created work remain allowed. Prior CC BY rights in unchanged material remain valid regardless of the copy used. Verification code retains its separate MIT license.

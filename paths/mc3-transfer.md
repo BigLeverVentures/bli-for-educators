@@ -1,6 +1,6 @@
 # Digital Marketing — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Adapt the message for a second channel while preserving the supported promise. State which observation would strengthen or weaken your hypothesis, and what action you would take in each case. Optionally describe what the test taught you; avoid declaring success from a polished draft or a single ambiguous response.</p>

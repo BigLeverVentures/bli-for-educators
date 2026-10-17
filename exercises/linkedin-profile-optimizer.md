@@ -1,6 +1,6 @@
 # Ex04 — LinkedIn Profile Optimizer
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <div><p>Big Lever Institute · Prompt Library</p>
 <p>Help the people you want to reach understand what you do, what you can contribute, and the experience behind it.</p>

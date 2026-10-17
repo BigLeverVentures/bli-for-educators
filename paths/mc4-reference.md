@@ -1,6 +1,6 @@
 # AI Tools and Workflows — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>A source is material you can inspect. A citation identifies where a claim comes from; it does not make the claim true. Research distinguishes observation, author claim, inference and unresolved question. An interested source may be useful while still needing qualification. Persistence supports continued work, but you must keep important progress explicit and check what the tool retained.</p>

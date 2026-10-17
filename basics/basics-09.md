@@ -1,6 +1,6 @@
 # 09 — Check Your Work and Choose What Comes Next
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>The useful result is yours, not the assistant&#x27;s confidence. You can ask it to critique its work, but you still compare important claims with your notes or other evidence.</p>
 <p>You can return to a guided conversation whenever you are stuck: describe the problem, ask for one question or an explanation, consider options and choose a small next step. A reusable prompt is useful when the work repeats; an ordinary conversation is enough to begin something unfamiliar.</p>

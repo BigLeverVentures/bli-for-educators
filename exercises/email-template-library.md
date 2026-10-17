@@ -1,6 +1,6 @@
 # Ex08 — Email Template Library
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <div><p>Big Lever Institute · Prompt Library</p>
 <p>Turn recurring emails into better drafts, using templates you can adapt and improve.</p>

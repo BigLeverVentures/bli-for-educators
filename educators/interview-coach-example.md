@@ -192,7 +192,7 @@ Save a separate note titled **Interview practice — Lee**, with the same four i
 
 You have finished when both notes contain supported examples, you can explain one correction or decision, and the second note uses the second card accurately. For your own job search later, supply accurate role information and experience you choose to share; do not use these fictional stories as your own. If an important detail is unknown, ask or leave it unknown.
 
-**Attribution:** Adapted from [Interview Coach, Big Lever Institute for Educators](https://github.com/BigLeverVentures/bli-for-educators/blob/main/exercises/interview-coach.md), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: public-library first-job role-play, two fictional cards, beginner chat directions, complete second prompt, explicit fact checks and saved notes. Adaptation drafted by Codex, 15 October 2026.
+**Attribution:** Adapted from [Interview Coach, Big Lever Institute for Educators](https://github.com/BigLeverVentures/bli-for-educators/blob/main/exercises/interview-coach.md), licensed [Big Lever Educator Teaching-Use License 1.0](../LICENSE.md). Changes: public-library first-job role-play, two fictional cards, beginner chat directions, complete second prompt, explicit fact checks and saved notes. Adaptation drafted by Codex, 15 October 2026.
 
 **Feedback and status:** Pilot teaching example; independent learner completion has not been established. Tell your workshop educator where you stopped, what you kept and what helped. Share only fictional examples. If receiving this outside a workshop, ask the person who supplied it for their feedback contact.
 
@@ -210,3 +210,5 @@ These are repeatable checks for your own setting. Keep sample answers out of vie
 
 For later real interview practice, learners must replace fictional cards with truthful experience and accurate role information they choose to share. The fictional stories are not personal achievements. Report unclear BLI instructions through [a public issue](https://github.com/BigLeverVentures/bli-for-educators/issues) or help@bigleverinstitute.org, using only fictional or redacted examples.
 
+
+This distribution permits teaching adaptations and free sharing, including within ordinary paid teaching or tuition-funded classes. Do not repackage for sale or charge specifically for access to covered materials. Prior CC BY rights in unchanged material remain valid regardless of the copy used.

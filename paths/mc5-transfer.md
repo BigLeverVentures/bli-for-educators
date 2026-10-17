@@ -1,6 +1,6 @@
 # Coding for Shippers — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Make one further improvement based on real use. Explain the change, run a check that could catch its likely failure, and prepare a focused diff. Optionally note what failed and what check found it. Keep actual run instructions with the tool instead of relying on a chat’s assurance.</p>

@@ -1,6 +1,6 @@
 # 06 — Give AI Text or a File to Work From
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><em>Source guide: choose permitted material, paste or attach, check readability, give a task and compare the answer with the source.</em></p>
 <p><strong>Context</strong> is information relevant to the current task. A source is material you can inspect, such as your notes or a document. Attaching a file does not guarantee it was read correctly.</p>

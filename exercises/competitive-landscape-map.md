@@ -1,6 +1,6 @@
 # Ex13 — Competitive Landscape Map
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Compare the alternatives your customer can choose, including their current workaround.</p>
 <h2>Start with your own task</h2>

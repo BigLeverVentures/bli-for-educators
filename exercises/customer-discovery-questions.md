@@ -1,6 +1,6 @@
 # Customer Discovery Questions
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Prepare questions that reveal how people handle a problem now.</p>
 <h2>Start with your own task</h2>

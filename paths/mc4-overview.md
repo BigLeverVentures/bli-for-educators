@@ -1,6 +1,6 @@
 # AI Tools and Workflows — Overview and Exercise Path
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><strong>This is a learning path.</strong> It connects exercises stored in the Exercise Library. Follow the links to do the work, or choose one exercise directly. You do not need to complete every page.</p>
 <p>Choose a continuing topic or a bounded research question. Turn readable sources into a briefing for a particular reader; add a deck only when it helps.</p>

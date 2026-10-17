@@ -1,6 +1,6 @@
 # Glossary
 
-[Curriculum](curriculum.md) · Alpha release · [Evidence and limits](educators/evaluation.md)
+[Curriculum](curriculum.md) · [Teaching-use license; no resale](LICENSE.md) · Alpha release · [Evidence and limits](educators/evaluation.md)
 
 <p>Use this page when a word is unfamiliar; you do not need to memorize it. BLI means Big Lever Institute. MC labels mean mini-course; exercise numbers are stable identifiers, not a required sequence.</p>
 <h2>Basic AI words</h2>

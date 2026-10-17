@@ -1,6 +1,6 @@
 # Ex20 — Build a Personal Tool
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Solve one small repeated task with software you can run and understand.</p>
 <h2>Start with your task</h2>

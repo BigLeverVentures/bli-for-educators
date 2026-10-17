@@ -1,6 +1,6 @@
 # Startup Foundations — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>WWMCAD is Chris Myers’s customer-centered approach. Start with the problem space, customer communities, current behavior and a day in the life. Build an evidence-grounded archetype before treating the customer-facing canvas as settled. Operations, costs/revenue and iteration come later. The user, buyer and payer can be different people. A hypothesis is a claim to investigate; an archetype summarizes supported patterns and remaining differences.</p>

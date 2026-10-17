@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Approach](approach.md) · [Authoring kit](authoring-kit.md)
 
-Start with one task your learners actually need to do. You can use a lesson unchanged, adapt it for a different audience, or borrow its teaching method. You do not need permission, membership, Git knowledge or our platform to reuse our original educational material under [CC BY 4.0](../LICENSE.md).
+Start with one task your learners actually need to do. You can use a lesson unchanged, adapt it for a different audience, or borrow its teaching method. You do not need separate permission, membership, Git knowledge or our platform to adapt and share our original educational material for teaching under the [Big Lever Educator Teaching-Use License 1.0](../LICENSE.md). Normal paid teaching and tuition, including sharing materials with enrolled learners, are allowed; repackaging for sale or charging specifically for access to covered materials is not. Prior CC BY rights in unchanged material remain valid regardless of which copy is used; see the license.
 
 ## 1. Choose a useful first lesson
 
@@ -61,7 +61,10 @@ Include attribution near the end. For example:
 ```text
 Adapted from “Email Template Library,” Big Lever Institute for Educators:
 https://github.com/BigLeverVentures/bli-for-educators/blob/main/exercises/email-template-library.md
-Licensed CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Big Lever Educator Teaching-Use License 1.0:
+https://github.com/BigLeverVentures/bli-for-educators/blob/main/LICENSE.md
+Adapt and share for teaching; no resale of covered materials.
+Prior CC BY rights in unchanged material remain valid regardless of the copy used.
 Changes: adapted for volunteer coordination; added fictional examples;
 removed email-app setup. Adapted by [YOUR NAME OR ORGANIZATION], [DATE].
 ```

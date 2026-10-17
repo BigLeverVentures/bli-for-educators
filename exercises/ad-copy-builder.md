@@ -1,6 +1,6 @@
 # Ex14 — Ad Copy Builder
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Write a few distinct messages you can test against a supported offer.</p>
 <h2>Start with your own task</h2>

@@ -12,8 +12,14 @@ resources and two complete fictional teaching examples. Markdown and browser
 pages present the same maintained lesson bodies. Full-length courses are outside
 this release.
 
-Original educational text, lesson prompts and templates retain [CC BY 4.0](LICENSE.md)
-permissions. Verification code has its own [MIT license](tools/LICENSE). External
+This distribution offers original educational text, lesson prompts, templates and
+page styling under the [Big Lever Educator Teaching-Use License 1.0](LICENSE.md).
+Adapt and share for teaching; do not repackage for sale or charge specifically for
+access to covered materials. Ordinary paid teaching and normal tuition are allowed.
+The earlier release was offered under CC BY 4.0: prior rights in unchanged material
+remain valid regardless of which copy is used, including commercial reuse and lawful
+onward redistribution under that license. Verification code retains its own
+[MIT license](tools/LICENSE). External
 sources and platforms retain their own terms. Names and logos are not licensed as
 another organization's branding.
 

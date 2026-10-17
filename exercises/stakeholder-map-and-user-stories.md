@@ -1,6 +1,6 @@
 # Ex25 — Stakeholder Map and User Stories
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Turn evidence about people and their work into a small testable product scope.</p>
 <h2>Start with your task</h2>

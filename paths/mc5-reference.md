@@ -1,6 +1,6 @@
 # Coding for Shippers — Reference at the Point of Need
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Concepts when you need them</h2>
 <p>A repository tracks versions. A diff shows changes. Staging selects what enters a commit; a commit records a local version and reason. A branch holds a line of work. A pull request proposes a branch’s changes for review on a host. Local history alone is not an off-device backup. An exit without an error is weaker than evidence that the output is correct.</p>

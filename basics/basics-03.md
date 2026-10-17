@@ -1,6 +1,6 @@
 # 03 — Get Your First Useful Result
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p><em>Conversation guide: describe a goal, answer useful questions, supply facts, review a result, choose corrections and check.</em></p>
 <p>Use the open chat from lesson 02, or open your chosen assistant and start a new chat. We will turn a few facts into a friendly invitation. It is fictional practice; nothing will be sent.</p>

@@ -1,6 +1,6 @@
 # Ex15 — Landing Page Brief
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Give a page builder a clear plan for communicating an offer and testing the next action.</p>
 <h2>Start with your own task</h2>

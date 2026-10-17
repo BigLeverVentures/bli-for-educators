@@ -1,6 +1,6 @@
 # Ex16 — Executive Briefing
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Turn a collection of information into a short briefing that helps someone make a decision.</p>
 <h2>Start with your own task</h2>

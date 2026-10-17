@@ -1,6 +1,6 @@
 # AI Tools and Workflows — Transfer and Optional Reflection
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <h2>Use the method again</h2>
 <p>Try briefing a different audience on the same sources. What changes in emphasis, and what factual claims must remain stable? Optionally record one interpretation you revised and the source that changed it. Keep a compact source list and approved synthesis for reuse.</p>

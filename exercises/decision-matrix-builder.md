@@ -1,6 +1,6 @@
 # Ex06 — Decision Matrix Builder
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Compare options transparently without letting a score decide for you.</p>
 <h2>Start with your own task</h2>

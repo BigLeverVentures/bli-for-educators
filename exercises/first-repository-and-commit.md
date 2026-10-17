@@ -1,6 +1,6 @@
 # Ex18 — First Repository and Commit
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Make a small project you can change without losing a known working version.</p>
 <h2>Start with your task</h2>

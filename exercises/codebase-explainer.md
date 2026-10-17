@@ -1,6 +1,6 @@
 # Ex21 — Codebase Explainer
 
-[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+[Curriculum](../curriculum.md) · [Teaching-use license; no resale](../LICENSE.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
 
 <p>Understand an unfamiliar project well enough to locate one behavior and plan a small change.</p>
 <h2>Start with your task</h2>
