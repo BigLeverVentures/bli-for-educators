@@ -38,18 +38,18 @@ charge its normal tuition or course fees, including distributing materials to
 enrolled learners through a learning-management system. That does not permit selling or licensing
 the Covered Materials or adapted guides as a product, charging specifically for access
 to them, or using course enrollment merely to disguise such a sale. Learners may
-pay their chosen AI provider for its service; that payment is not a sale of this kit.
+pay their chosen AI provider for its service; that payment is not a sale of these materials.
 
 ## Conditions and limits
 
 1. Preserve this license, copyright notices, separately licensed material notices,
    and attribution to Big Lever Institute. Identify substantive changes and name
    the educator responsible for an adaptation. Do not imply Institute endorsement.
-2. Do not repackage for sale, resell, commercially license, or offer paid access to the Kit
+2. Do not repackage for sale, resell, commercially license, or offer paid access to the Covered
    Materials or adaptations of them, whether alone or as a bundled product. The
    permission granted here is for teaching and learning, not resale or a commercial
    assistant service. Other uses require separate written permission.
-3. Pass on these same teaching-use permissions and restrictions for the Kit
+3. Pass on these same teaching-use permissions and restrictions for the Covered
    Materials and your adaptations of them. Do not impose restrictions on content
    that has its own independent license. You may license your independent material
    separately; clearly distinguish it from adapted Covered Materials.
