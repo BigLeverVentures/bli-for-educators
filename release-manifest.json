@@ -1,0 +1,727 @@
+{
+  "release_date": "2026-10-17",
+  "stage": "alpha",
+  "lesson_count": 65,
+  "exercise_count": 27,
+  "basics_count": 9,
+  "path_page_count": 28,
+  "pages": [
+    {
+      "path": "basics/basics-01.md",
+      "browser_path": "site/basics/basics-01.html",
+      "title": "01 — What AI Can Do for You",
+      "group": "AI Basics",
+      "prompt_sha256": []
+    },
+    {
+      "path": "basics/basics-02.md",
+      "browser_path": "site/basics/basics-02.html",
+      "title": "02 — Choose an Assistant and Open a Chat",
+      "group": "AI Basics",
+      "prompt_sha256": []
+    },
+    {
+      "path": "basics/basics-03.md",
+      "browser_path": "site/basics/basics-03.html",
+      "title": "03 — Get Your First Useful Result",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "08e388d659e586904f28e98a750b1679441b1fa8f21b1d6a63d56c49feebd793",
+        "ec1ae45f78a8cf799c50d732441967fe8805d8b73e62bef07607d06eb1862526"
+      ]
+    },
+    {
+      "path": "basics/basics-04.md",
+      "browser_path": "site/basics/basics-04.html",
+      "title": "04 — Ask for What You Want",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "0578c397982a805428023592a989186c54d5e385df17582ba6d44ebeaedb1f6b",
+        "3565735f6c046e327a2f7cd21ab6e00ff08a38cae0ef39aff2c0594c9cdd0c2d"
+      ]
+    },
+    {
+      "path": "basics/basics-05.md",
+      "browser_path": "site/basics/basics-05.html",
+      "title": "05 — Work Through a Problem with AI",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "c3ddd2b6361882d0a1af988b3cf14fc584705dbc8043b5a546dcd52d6dd4f1e6",
+        "651a3e751159ab87c4cf802f6fe66bf70f90d228524fd427e65ea3f022c1de0f",
+        "bed8eae6241e4823dc314e2f681fc7f104994792d70eb679b240c47052f38fec"
+      ]
+    },
+    {
+      "path": "basics/basics-06.md",
+      "browser_path": "site/basics/basics-06.html",
+      "title": "06 — Give AI Text or a File to Work From",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "90eca8f837d05c9fb50812860e0a042b62cd9f61617964d2023a285457ebdac6",
+        "6b5fada52bf0af2c6d2c6edb76742cdedb6ac2ffe61faa1c919d51c0f341f906"
+      ]
+    },
+    {
+      "path": "basics/basics-07.md",
+      "browser_path": "site/basics/basics-07.html",
+      "title": "07 — Tell the Assistant How to Help You",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "ce15215d672f0385bbd3d5835311e0cb4b3d3ac110afac97e37066a7ed8f5b88"
+      ]
+    },
+    {
+      "path": "basics/basics-08.md",
+      "browser_path": "site/basics/basics-08.html",
+      "title": "08 — Set Up a Project for Continuing Work",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "eece4b5a84e2abec365e4013d2d2cdaff919e11c621704829837de58dc87773d",
+        "d499daea7456cc8fb60bd11201f7b36636c426ee6e1add162d5f07984c5fb7f2"
+      ]
+    },
+    {
+      "path": "basics/basics-09.md",
+      "browser_path": "site/basics/basics-09.html",
+      "title": "09 — Check Your Work and Choose What Comes Next",
+      "group": "AI Basics",
+      "prompt_sha256": [
+        "008207f6c4be98ad72e207dbae0e2fa52f88d319227340847453327d41112a7b"
+      ]
+    },
+    {
+      "path": "exercises/ad-copy-builder.md",
+      "browser_path": "site/exercises/ad-copy-builder.html",
+      "title": "Ex14 — Ad Copy Builder",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "093e24eaf010e679794fe28d46165bc763d11ff8049bae89d76c94a48b34c36c",
+        "1e0b41ac33d420ac0db3e0e32fca406dd98556bebb291d64adaf9f9101c17da3"
+      ]
+    },
+    {
+      "path": "exercises/board-of-advisors.md",
+      "browser_path": "site/exercises/board-of-advisors.html",
+      "title": "Ex10 — Board of Advisors",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "c61f695335b22b51e69da0e5ddc13208bc0bd382aa006e586adc4c3e2cd0d96d",
+        "3148854c5dfb1aaacd656828668f6ed74839d5038d7a8304157056fe11efc67d"
+      ]
+    },
+    {
+      "path": "exercises/build-a-personal-tool.md",
+      "browser_path": "site/exercises/build-a-personal-tool.html",
+      "title": "Ex20 — Build a Personal Tool",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "5b32afdf175e9232f51178801706d3b1fe3e87deacee124d5f29a77d4a17a3b2",
+        "d94d5f3491546d9a14034e7dfb9b9948617f46fa54da7252494fde33da490582"
+      ]
+    },
+    {
+      "path": "exercises/codebase-explainer.md",
+      "browser_path": "site/exercises/codebase-explainer.html",
+      "title": "Ex21 — Codebase Explainer",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "2669116aaaadafada3d7da5ed789ac6321b467bdc3e4ce8b1f4ad657818c5b98",
+        "559d1e622710f36770e698b0283a3da2ff9b6bd80a0cc704938bcb73c251d6fc"
+      ]
+    },
+    {
+      "path": "exercises/competitive-landscape-map.md",
+      "browser_path": "site/exercises/competitive-landscape-map.html",
+      "title": "Ex13 — Competitive Landscape Map",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "3c06d329c5ae24cb9d96b4835c8f16455c65bbd769ffc0e69bc8c1707998ba07",
+        "867d207967331f20c6465e127eb05a49ee451d24436ed4fd7c26e0cba85639a8"
+      ]
+    },
+    {
+      "path": "exercises/customer-archetype-builder.md",
+      "browser_path": "site/exercises/customer-archetype-builder.html",
+      "title": "Customer Archetype Builder",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "ff4a47f9ccfd2b7670f5c74bc1251b0b679ee16466454deaee8d6f955025b799",
+        "c213d8ce6715914cfb2b0f5c38a4b39b0843a1d914e1a737f7c5a337dfb2a8f6"
+      ]
+    },
+    {
+      "path": "exercises/customer-discovery-questions.md",
+      "browser_path": "site/exercises/customer-discovery-questions.html",
+      "title": "Customer Discovery Questions",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "15fe5d81946970865ad2db85bf4b7e9b735105da88e84a303fd6d692c767db30",
+        "f2a9718b1c8cc5e678cf448b1f51b6ae9c90c1806e4519c48538bcd6015c11d5"
+      ]
+    },
+    {
+      "path": "exercises/customer-field-notes-day-in-life.md",
+      "browser_path": "site/exercises/customer-field-notes-day-in-life.html",
+      "title": "Customer Field Notes",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "6c6963511cfdf14ec796dc375d9a9880dfe2d7fb65e1d67ff274a3e937609e1a",
+        "b35f56946463ced09ba676acb672f88ca1182e12bdc7de0869856b7cea6323d9"
+      ]
+    },
+    {
+      "path": "exercises/decision-matrix-builder.md",
+      "browser_path": "site/exercises/decision-matrix-builder.html",
+      "title": "Ex06 — Decision Matrix Builder",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "1c24d9120f5fd9391fd0f4ad81f469ec4e64356a7257a655945e67dad27879f6",
+        "f0c827c32cb841f86e7ff0b23563f002667584e2ce3b99c6dc5c5eda4d7aca5c"
+      ]
+    },
+    {
+      "path": "exercises/decision-record.md",
+      "browser_path": "site/exercises/decision-record.html",
+      "title": "Ex23 — Decision Record",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "5ddeaf655e1aeb5e74392903574adb9e2c3e6f026a69852d265b9242a4d64ed7",
+        "254dab5cec5a09bd7dbbcedc987ac4898b522b9d111f8369e0edc5e3aba4db29",
+        "4b22543fc316c090e8f27b0b2c8d706de699f96ae77daa0ec3e7ca8e462431fe"
+      ]
+    },
+    {
+      "path": "exercises/email-template-library.md",
+      "browser_path": "site/exercises/email-template-library.html",
+      "title": "Ex08 — Email Template Library",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "cf09724df8c2e4f8fd20f6efd1c504d82a5ee6a9d9eb45e2ee1c04541b8411d6",
+        "1efd98fa2cbf573a50215b26f683c74633a1f45ddea255fa59f0965af2050b56",
+        "729d41110360a69fd46337750647dfab90479d002f99e1496d23f489952712a2"
+      ]
+    },
+    {
+      "path": "exercises/executive-briefing.md",
+      "browser_path": "site/exercises/executive-briefing.html",
+      "title": "Ex16 — Executive Briefing",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "25477edd89d2c4e6436877cd0673026fb8c06c6cd09245fe76727d564dbf2fb5",
+        "178c9ab1b108c65ff743c9196ff228492d9de5a7f5cd6b874a00eb50a2d1159a"
+      ]
+    },
+    {
+      "path": "exercises/finance-analyzer.md",
+      "browser_path": "site/exercises/finance-analyzer.html",
+      "title": "Ex05 — Finance Analyzer",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "90cc441f902d97d23ca042021cadf4563aa67f3797904367914ae501b3db860f",
+        "cdc82ec58c50dfcc75ac015b64a4ee410abe91c21248f1ed002b83030fe0f34c"
+      ]
+    },
+    {
+      "path": "exercises/first-pull-request.md",
+      "browser_path": "site/exercises/first-pull-request.html",
+      "title": "Ex19 — First Pull Request",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "3dd98675c1ffeaedbfe94fc552fa7b6bdf2b265f4e5a5f22ee4b9021daa85f57",
+        "5b45e436ccff7caf40016730381066927f967bf471e6778da2eab4f522216dd9"
+      ]
+    },
+    {
+      "path": "exercises/first-repository-and-commit.md",
+      "browser_path": "site/exercises/first-repository-and-commit.html",
+      "title": "Ex18 — First Repository and Commit",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "e93a9784cda7cb8a01b4177f97c03d40e19c25fb8e912c75376f460dd40d96fb",
+        "5daee6e5ebd4aaa6d4ef3d3d908e1cfa4a3b25fa73a72818d89832589f3219f3"
+      ]
+    },
+    {
+      "path": "exercises/industry-researcher.md",
+      "browser_path": "site/exercises/industry-researcher.html",
+      "title": "Ex07 — Industry Researcher",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "970347852460da21fc253ac38c12f49c0117b5c4cf215462c9a3878fd54f780f",
+        "5364739938ebe94ccde32ce2aaea920593a84b18611e51f78cb3c931616459cb"
+      ]
+    },
+    {
+      "path": "exercises/interview-coach.md",
+      "browser_path": "site/exercises/interview-coach.html",
+      "title": "Ex02 — Interview Coach",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "a1a054fb82c0d9172fceb84650e81510a72c8c3e3e45edc8e8232565bf257668",
+        "30af92af3cf8639f4dc58118a46f722d5ca860b3ec541b4881586f9769852208"
+      ]
+    },
+    {
+      "path": "exercises/landing-page-brief.md",
+      "browser_path": "site/exercises/landing-page-brief.html",
+      "title": "Ex15 — Landing Page Brief",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "f8a63b8d2ae46e3013cff0e0f6a27f2dcd8a5d269bdf1d605e616c36f7649448",
+        "110864a07e290f501f0487956379d3edfb1f4bd9bef2cce15338d9b3d6b31f4f"
+      ]
+    },
+    {
+      "path": "exercises/linkedin-profile-optimizer.md",
+      "browser_path": "site/exercises/linkedin-profile-optimizer.html",
+      "title": "Ex04 — LinkedIn Profile Optimizer",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "6305adfe0631ec5c3d7bb7b1facb298cdfdec8e72297a6bfb3faa753c9540223",
+        "b1e6b131f824e498830df4f4d16d1788e6cd3cc1946258901a2510a8c69b40ac"
+      ]
+    },
+    {
+      "path": "exercises/negotiation-simulator.md",
+      "browser_path": "site/exercises/negotiation-simulator.html",
+      "title": "Ex03 — Negotiation Simulator",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "df40b69ccdea8e044ea7487175175e4b57c239d6d97a5a5b7d9fe7d646c20b80",
+        "c1ced3f2f6efc4de5532d3fd0f6b7fe91355d5454fd28b331fdef50a0af922db"
+      ]
+    },
+    {
+      "path": "exercises/presentation-from-notes.md",
+      "browser_path": "site/exercises/presentation-from-notes.html",
+      "title": "Ex17 — Presentation from Notes",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "86bc74f357887f83b2127d5d7afe7e88c162c8d5f7bd2b0dc148be6eddbbf87a",
+        "fa68bd4e34b513c4cc0a1e525a0e06890de551575fb0233b064a5889c9689906"
+      ]
+    },
+    {
+      "path": "exercises/project-brain.md",
+      "browser_path": "site/exercises/project-brain.html",
+      "title": "Ex09 — Project Brain",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "4005c55a5189a5727fed0f8f9e57c388687a49a811a8153c8f84cacc4a6e0dd5",
+        "4b029f201d403552523093ee5afab2129b2f9dc5c5ee60f182f5da6284b369c3",
+        "4608c333a2856579b805288dfd442d1bd1aff4d08b6827983c1c349233cd8f5d",
+        "0532e02763aa5dd6951c6423952179c2de987d9848b35eca275b08447738e8d5"
+      ]
+    },
+    {
+      "path": "exercises/resume-tailorer.md",
+      "browser_path": "site/exercises/resume-tailorer.html",
+      "title": "Ex01 — Resume Tailorer",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "5e5adea3153b4f979061c2b507a7f6ee681805200134722afe039f9de09d3890",
+        "53eb384c302f45cc751df9811fc441717d9908ac6d2c809e55c6a3c032e8a37a",
+        "cb42c326ac2b96b609d1019bccf2fde9c8de99d8b81d6ab651da4199f9ec640d"
+      ]
+    },
+    {
+      "path": "exercises/roadmap-builder.md",
+      "browser_path": "site/exercises/roadmap-builder.html",
+      "title": "Ex24 — Roadmap Builder",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "2c163622b51e6330be1cb75b3e10999f799397d9abe8cf11e9dbf39c29bcd12f",
+        "c9ac412aa677e99fcce8cdabb9e6e798c4c493a26dd534ae31f857f95eeb7c19"
+      ]
+    },
+    {
+      "path": "exercises/stakeholder-map-and-user-stories.md",
+      "browser_path": "site/exercises/stakeholder-map-and-user-stories.html",
+      "title": "Ex25 — Stakeholder Map and User Stories",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "f41928d6d781278308c8b8e8748e1ccdb93eff132b843fc29925e4de50a75d4c",
+        "88967d0646127bd95095cca64d5d3a48e5ad46bd8e2ab4a26ceb6d3242122107"
+      ]
+    },
+    {
+      "path": "exercises/venture-problem-hypothesis.md",
+      "browser_path": "site/exercises/venture-problem-hypothesis.html",
+      "title": "Ex12 — Venture Problem Hypothesis",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "0ee9849c8e2b3fbcadf0737f0aa8d05c809c8ea2b90eae3fb8c3a6b624e6cd25",
+        "d6f99638d0769f3fd2a0c080f9340c5fa909a6354148904164e7ec90295012b1"
+      ]
+    },
+    {
+      "path": "exercises/workflow-library-builder.md",
+      "browser_path": "site/exercises/workflow-library-builder.html",
+      "title": "Ex22 — Workflow Library Builder",
+      "group": "Exercises",
+      "prompt_sha256": [
+        "e9ea9340d506f3f5b4f446147746cddaa4144e64ecf8819f6e6604cd0cce63e2",
+        "1c02942a89a24fe089373f176cd6485057e38480d3905c252a7779c9afd1b7f6"
+      ]
+    },
+    {
+      "path": "paths/mc1-overview.md",
+      "browser_path": "site/paths/mc1-overview.html",
+      "title": "Everyday AI — Practical Examples — Overview and Exercise Path",
+      "group": "Everyday AI — Practical Examples",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc1-path.md",
+      "browser_path": "site/paths/mc1-path.html",
+      "title": "Everyday AI — Practical Examples — Connected Exercise Path",
+      "group": "Everyday AI — Practical Examples",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc1-transfer.md",
+      "browser_path": "site/paths/mc1-transfer.html",
+      "title": "Everyday AI — Practical Examples — Transfer and Optional Reflection",
+      "group": "Everyday AI — Practical Examples",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc1-reference.md",
+      "browser_path": "site/paths/mc1-reference.html",
+      "title": "Everyday AI — Practical Examples — Reference at the Point of Need",
+      "group": "Everyday AI — Practical Examples",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc2-overview.md",
+      "browser_path": "site/paths/mc2-overview.html",
+      "title": "Startup Foundations — Overview and Exercise Path",
+      "group": "Startup Foundations",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc2-path.md",
+      "browser_path": "site/paths/mc2-path.html",
+      "title": "Startup Foundations — Connected Exercise Path",
+      "group": "Startup Foundations",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc2-transfer.md",
+      "browser_path": "site/paths/mc2-transfer.html",
+      "title": "Startup Foundations — Transfer and Optional Reflection",
+      "group": "Startup Foundations",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc2-reference.md",
+      "browser_path": "site/paths/mc2-reference.html",
+      "title": "Startup Foundations — Reference at the Point of Need",
+      "group": "Startup Foundations",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc3-overview.md",
+      "browser_path": "site/paths/mc3-overview.html",
+      "title": "Digital Marketing — Overview and Exercise Path",
+      "group": "Digital Marketing",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc3-path.md",
+      "browser_path": "site/paths/mc3-path.html",
+      "title": "Digital Marketing — Connected Exercise Path",
+      "group": "Digital Marketing",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc3-transfer.md",
+      "browser_path": "site/paths/mc3-transfer.html",
+      "title": "Digital Marketing — Transfer and Optional Reflection",
+      "group": "Digital Marketing",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc3-reference.md",
+      "browser_path": "site/paths/mc3-reference.html",
+      "title": "Digital Marketing — Reference at the Point of Need",
+      "group": "Digital Marketing",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc4-overview.md",
+      "browser_path": "site/paths/mc4-overview.html",
+      "title": "AI Tools and Workflows — Overview and Exercise Path",
+      "group": "AI Tools and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc4-path.md",
+      "browser_path": "site/paths/mc4-path.html",
+      "title": "AI Tools and Workflows — Connected Exercise Path",
+      "group": "AI Tools and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc4-transfer.md",
+      "browser_path": "site/paths/mc4-transfer.html",
+      "title": "AI Tools and Workflows — Transfer and Optional Reflection",
+      "group": "AI Tools and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc4-reference.md",
+      "browser_path": "site/paths/mc4-reference.html",
+      "title": "AI Tools and Workflows — Reference at the Point of Need",
+      "group": "AI Tools and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc5-overview.md",
+      "browser_path": "site/paths/mc5-overview.html",
+      "title": "Coding for Shippers — Overview and Exercise Path",
+      "group": "Coding for Shippers",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc5-path.md",
+      "browser_path": "site/paths/mc5-path.html",
+      "title": "Coding for Shippers — Connected Exercise Path",
+      "group": "Coding for Shippers",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc5-transfer.md",
+      "browser_path": "site/paths/mc5-transfer.html",
+      "title": "Coding for Shippers — Transfer and Optional Reflection",
+      "group": "Coding for Shippers",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc5-reference.md",
+      "browser_path": "site/paths/mc5-reference.html",
+      "title": "Coding for Shippers — Reference at the Point of Need",
+      "group": "Coding for Shippers",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc6-overview.md",
+      "browser_path": "site/paths/mc6-overview.html",
+      "title": "Prompting and Workflows — Overview and Exercise Path",
+      "group": "Prompting and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc6-path.md",
+      "browser_path": "site/paths/mc6-path.html",
+      "title": "Prompting and Workflows — Connected Exercise Path",
+      "group": "Prompting and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc6-transfer.md",
+      "browser_path": "site/paths/mc6-transfer.html",
+      "title": "Prompting and Workflows — Transfer and Optional Reflection",
+      "group": "Prompting and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc6-reference.md",
+      "browser_path": "site/paths/mc6-reference.html",
+      "title": "Prompting and Workflows — Reference at the Point of Need",
+      "group": "Prompting and Workflows",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc7-overview.md",
+      "browser_path": "site/paths/mc7-overview.html",
+      "title": "Product Thinking — Overview and Exercise Path",
+      "group": "Product Thinking",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc7-path.md",
+      "browser_path": "site/paths/mc7-path.html",
+      "title": "Product Thinking — Connected Exercise Path",
+      "group": "Product Thinking",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc7-transfer.md",
+      "browser_path": "site/paths/mc7-transfer.html",
+      "title": "Product Thinking — Transfer and Optional Reflection",
+      "group": "Product Thinking",
+      "prompt_sha256": []
+    },
+    {
+      "path": "paths/mc7-reference.md",
+      "browser_path": "site/paths/mc7-reference.html",
+      "title": "Product Thinking — Reference at the Point of Need",
+      "group": "Product Thinking",
+      "prompt_sha256": []
+    },
+    {
+      "path": "glossary.md",
+      "browser_path": "site/glossary.html",
+      "title": "Glossary",
+      "group": "Reference",
+      "prompt_sha256": []
+    }
+  ],
+  "files": {
+    ".github/workflows/pages.yml": "80d33243290aadb528de3b99856a745cd9263276dd09b08bdff520e805013ced",
+    ".github/workflows/verify.yml": "922f3c98b2975299f9507d6bbe08b5494168ab413dd1d2c7d72d7c3e4ab4fa0e",
+    "CONTRIBUTING.md": "065fed9de20d9c2810959ad0cdf8ccf45035c48ed2ee9f2f25913ad5e43a5073",
+    "LICENSE.md": "f9e44e9877575958b92cdf0bf3e5022dd0910662872a33cadd7159e302cc3450",
+    "PROVENANCE.md": "4a9940de14fa0df07f5f72c29233cfdbb50e6ab15974a1a93e1d0b4f5bda03ce",
+    "README.md": "950ac600496be8448f434e329cbc6639c426761cb98fea59dd3369743f6b0ec8",
+    "basics/README.md": "26e4f5b0e437a61dd9ebdd3d67c49cc5300ad441b8085ef2cc54bad95c9004a3",
+    "basics/basics-01.md": "3c5eab4686cb14f6373986b8b7360099a7f6b10885fb5ce9b688cc4a6bb18ea3",
+    "basics/basics-02.md": "8c8ef30568f474361e04ad96176c6ef02f2a89cb75571b243272ac13222a4df6",
+    "basics/basics-03.md": "4e0972fa041e2239ea790a1bf1195945e29ead8e9d8b6931112e5b4e294b7b19",
+    "basics/basics-04.md": "b36af8eae4f2540f353be96fe60551440d26ab7c0514e23af7a36a33a3fb3515",
+    "basics/basics-05.md": "eb9724a73a4640ec95f1a9e86cc79e3edcf62437b0398002e4c06211fdfeecb2",
+    "basics/basics-06.md": "01cb2048ff2a7985ad8a16522180cc12fb0c57be1b7eeadfdc093f0a398f4529",
+    "basics/basics-07.md": "efeba9313a5588ab87ab30128d80ae633fdb51df0fc18dc1dc96b60b21a8517d",
+    "basics/basics-08.md": "912311c90c3208d7a7fbb7071fc9a44a27959e40b0fc6fec7563311f638992eb",
+    "basics/basics-09.md": "ce48bfb12367038ef9487d6e85ba3be8f983ab2a3107b8a966e0882b2464823e",
+    "curriculum.md": "534639c7ad2cf8b2e65a5ba3f5a0f8712f4d221d89c042cbea02c3e7ee4187fb",
+    "educators/adapt-a-lesson.md": "33c50b1005ae24057e7335e32615efcb252b62088a7e042de3b76e684af99a80",
+    "educators/approach.md": "12430e8bce183f022b713b8b12bad88181110108eebea6200401347139a9bb8d",
+    "educators/authoring-kit.md": "70fe2740d94eb47c8630b8c695dc249fe96bf355aaec1e12ac2daa03aa444017",
+    "educators/evaluation.md": "a81103f5148131bc89ffa903e6abb0174e8a1d2c01ee4d0d2b9e1c3928c14699",
+    "educators/interview-coach-example.md": "d63f3df7e3860fa3ab37545869dc0f709d829881c9766cbd405146fb44ca0ca5",
+    "educators/publishing.md": "f42a4d0390f1a75264011903b65b31a268aa00c05b20e42517ed91f50f06dc8a",
+    "educators/volunteer-email-example.md": "3fa69423b0739dc0ef017d53f908f17e97c25cf6f1567eaffa2e99ae877f9df6",
+    "exercises/README.md": "a0a31677e15a962622417ae55199c75bda750424c1fbf85c90e3371959f26cf3",
+    "exercises/ad-copy-builder.md": "d9046e48830fcc94fa15464c9d254985fc75e254c5fed335c990148093b5ccf2",
+    "exercises/board-of-advisors.md": "d6ccea14aa95a225d3ad85ba5bc543b15122e47b89c487dff72dcb478527a288",
+    "exercises/build-a-personal-tool.md": "cb60b85fa0c4844eb2781bcaac7134bbdf81f688f60845c8cf980130e6615ff9",
+    "exercises/codebase-explainer.md": "277a19bd695ddcde1fa38cfb714ad32f32cd0bd1c7a8c4a7e678d0bc2e472ca3",
+    "exercises/competitive-landscape-map.md": "649ce1c6cd55f68c4cf70bad2b6e66d93f9b9cc342378462f45140d13c1a8a35",
+    "exercises/customer-archetype-builder.md": "04a657fdcd7a20d0ac901e4162494ca1dcf56f92c14e1568e33ef6930aeb2b54",
+    "exercises/customer-discovery-questions.md": "dbfdba4685ce3277e80669ea911ea9523b2ef31cea074b91e20e1f616259406e",
+    "exercises/customer-field-notes-day-in-life.md": "beb6ec1d66a29f0b3e3ed0de754859cc227a333d69b4a0adc213758a8964a417",
+    "exercises/decision-matrix-builder.md": "09ab7447e188d2487748c2b89f9e1096d937e213081c01b547f6e7b0edcdf1ba",
+    "exercises/decision-record.md": "d021a3c44710fbc384f583a8e9fc6b63fd0e42002d84712d0b7c882c0297a807",
+    "exercises/email-template-library.md": "c7101b56a16596680c584089000bde1c2a47d28b8163ddf7c4bc674b18b35de1",
+    "exercises/executive-briefing.md": "fab5b50da65485d2052734c48ae9f9a8cdf47db2ee518f514bc1dd220e19c7a3",
+    "exercises/finance-analyzer.md": "d720f7bc3a3b74b90901dd5457b658bfd867ce1d9ad76d47c6f60f0ab7ce72b2",
+    "exercises/first-pull-request.md": "5bc340158ee89acf3f0405de031d67e72ba3880bd12bd8dc026e53e67ad2604d",
+    "exercises/first-repository-and-commit.md": "b18e3594cec1b5ea3cea754b004c4f215cbb1ac2059a4b5907310f3ac876d057",
+    "exercises/industry-researcher.md": "8121e3cfcc567a11541559f8ea1c4cbdf5ddd663ebfc4ca5a27c9abe36beed86",
+    "exercises/interview-coach.md": "8ab9b0cbe9cee5dfca76ad9185d231779e093fbbdbe84bb8e98273c83310804e",
+    "exercises/landing-page-brief.md": "b30b0629950f565249507fba9cf5befb125cb9488993f8a89bf8172150c6a722",
+    "exercises/linkedin-profile-optimizer.md": "62b021bb3d7541a006f153b225496b30409afec846da7184373d812d7294afd8",
+    "exercises/negotiation-simulator.md": "19a3f0652b167d62f9f7476c2be269c86e66e616224ccf8aaeda52ce7f6e8a7b",
+    "exercises/presentation-from-notes.md": "310c733e1220e981dd3861ee69b842eea32123abfc24ec19b84878182a092369",
+    "exercises/project-brain.md": "0a6b1ed26409d36c8e7a420d783dae4b530f8eae96ee78ae85e91ece651badac",
+    "exercises/resume-tailorer.md": "7c81d253b9cf2dbdad3d449e44287fb80e97321e06574ce19e797f6c21b7de72",
+    "exercises/roadmap-builder.md": "06b2e1c247f45600ae130d132f010fbac07e7f1ffbdd46ad1c5bd4ee6a88e998",
+    "exercises/stakeholder-map-and-user-stories.md": "12d5cd656597b9fe4c894ae668c3c668ad8fe365f93a5a0574529831ca84e8c7",
+    "exercises/venture-problem-hypothesis.md": "733913aa106ade66f52b760735dc3fef1fbb895545a8b9154b89328a6efc986c",
+    "exercises/workflow-library-builder.md": "dd480021ff24c1e2ddb73c9b0bec4b3feb80da8683fbdd334b70c226b12f0f5d",
+    "glossary.md": "b05266af1c6bae3d6a8b29e409e71bc619ac8a635b78c020f2aa1d932c152706",
+    "paths/mc1-overview.md": "a7d66d64d2e70ea810cef9cfe68a2262ac3bf3b96e456ee210f159241323c5f7",
+    "paths/mc1-path.md": "3bbdcae1d2a96136dd36d172e7e808a2ac618914f3c4b1befcc34d290c9c83ad",
+    "paths/mc1-reference.md": "4c44684eb3a38cf76c9fe4861d90774bf0a1d9490b853ff842e0b294de49ea61",
+    "paths/mc1-transfer.md": "3f9594a47476e38864fe54a1a0d05339e6068296ff04c1e9437ee3be3f12aab2",
+    "paths/mc2-overview.md": "1670496f0248f07244387e79ea6c35d3e76954c56f8806e8ed4c255a0018acf8",
+    "paths/mc2-path.md": "27787a93763118e420792ee9d5915bc3cb92a0988b3a9d62a9679b2351ddc9a3",
+    "paths/mc2-reference.md": "bd278a8b1d0a864e9812577d74994ef6cd817c484797fbf303306a83ce39ae12",
+    "paths/mc2-transfer.md": "1cccb3e40893eea7575472f456b33896b8b770ea50d0c6eb5776d9b648ace43e",
+    "paths/mc3-overview.md": "86570d27b85f5fbfba408905a477eb0a6fcfce076b4bb42d058d7ee45f9d4379",
+    "paths/mc3-path.md": "d94bb2597492855b1689402865d73ddea67eb254424fd8cea582a07b3c8e7cc3",
+    "paths/mc3-reference.md": "e06d057945dd0b97b3938ef40b0c7c9ca8cf0b5035a2fc3808105da8c74d6602",
+    "paths/mc3-transfer.md": "0723b5e749ab0fbbcf04ab1748b79efe638aac16a28f89564def61ee244e3613",
+    "paths/mc4-overview.md": "6143eed635fb9fb8abf807b713393d1060d0635925475bfbde592224a80b057e",
+    "paths/mc4-path.md": "0ee3f910f5779e2f0ca08a1e903e9a6269df5e077ee3524695585011640de6ab",
+    "paths/mc4-reference.md": "e2e9957943d5bfa52686f608aad0bd7d1fbe89549efedf78d7c003d9fb9d0866",
+    "paths/mc4-transfer.md": "5a0361a23198f3ab21a930abf95308993c182400270bc7f9d40f7afb591d22e3",
+    "paths/mc5-overview.md": "8f747e930501722c597abfec20039025650516ea7e83032e0dc960a3302e4861",
+    "paths/mc5-path.md": "ad153929bd062ca206a30da131775cd12e2e5a6c82751289ae308645f5376f8e",
+    "paths/mc5-reference.md": "1f8992d35ceb8e8862038b16c09fd15e465f22cfe6bb167c87da1ba69644f48a",
+    "paths/mc5-transfer.md": "c1ee39af641e36a5d60cd90b29325c18164af08e43c3987940c6ce8059fbfda3",
+    "paths/mc6-overview.md": "2f3ff38ae3e2979287e9e2e5ac5cfdf41e43f0b00b42737002e3fe05902db206",
+    "paths/mc6-path.md": "f19a8ad7093e2cb05a3ff9d03258e2a0320ecd895829934c95dc56fbc4bf865a",
+    "paths/mc6-reference.md": "975edd1e618492e39d12cbf0650e54e85813e07d974d791d3cab42c8122a6b09",
+    "paths/mc6-transfer.md": "75acc8236459b6ce75971509b2cb7875c2581d45e070511928313426974bc81d",
+    "paths/mc7-overview.md": "85e77ea84146de5cc7d72909a07d706bf88edc28ba2f2ec68b421204860e5088",
+    "paths/mc7-path.md": "d8218f0cccfbe8f2c176235a6cac67233c8768b49b3c61a0584937246b087120",
+    "paths/mc7-reference.md": "33d355f05c3a265e89ce87fe384433d38edd40fb7a91660550a66ca122a77565",
+    "paths/mc7-transfer.md": "b76c326c21c682c5af4611158d0a7c466e87bce1327a87bf807ee8a86b014fc2",
+    "resources.md": "a88ec57da72524094e87d9d299d28ae90379f1e8767c7ffee69ad50aabef2180",
+    "site/.nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "site/CNAME": "c9a5a776b809d0a9dd40a9d0b046ac99b418ba5ea47c346411cde6ad456548f8",
+    "site/basics/basics-01.html": "0fcc83c5d13ad5826ccde0c98fa10a15d10fc9d7177bb7d121ff4ebeff61fddb",
+    "site/basics/basics-02.html": "d586d442c7f7258fef3602ead7ea872543b00e0de8a838cd23cdf5440899105e",
+    "site/basics/basics-03.html": "4720e33df79623eadcc4e51f2383d2e159cf313126d5dfd86e2180743b543a36",
+    "site/basics/basics-04.html": "6fc1df82cd61f68371975ef51d9267157804f7a024aa4528ae8aaf13b701704a",
+    "site/basics/basics-05.html": "7d498433bf3f6b2082db12796a67be7fbf79d803f72fa1d1ddc0e0c5918a1b43",
+    "site/basics/basics-06.html": "38e19fbdcc8d53be34ef67f925a1db68a5279c5d11320e395bdeb383d15c92dd",
+    "site/basics/basics-07.html": "2c71a5ac55b0b14ddb024e3358adb038a81d2a93cd9691e65ecdbc4a03810293",
+    "site/basics/basics-08.html": "74ae188dca0d8f46837c7a4a1c201f79dd1d033f3012ab73466f4b99401110ed",
+    "site/basics/basics-09.html": "9404cfab9941211359696932f54205e12533d8a2b9dea36eaec73ebe0c29c335",
+    "site/copy.js": "337c9933cdaa93098f82879357a7999021a050b8370e4067ac485fd03b84f3ea",
+    "site/exercises/ad-copy-builder.html": "f0e229bc5cba75fa5a5a51bb818be8eb0b899d8153515039f6a03f731602f5a2",
+    "site/exercises/board-of-advisors.html": "120e56d22b90e4b71f71e3be845f8adf475ecbf478ad6571a92aa0310083ff4b",
+    "site/exercises/build-a-personal-tool.html": "d37fc0ff231b7bc77fbc9c8197c33df83cc5d950776d335354bd6a1e4f722e3c",
+    "site/exercises/codebase-explainer.html": "e60cab6f65cfe9295c83691687e11dff242b7d0428759608b30f2bf6732ddd1b",
+    "site/exercises/competitive-landscape-map.html": "7c43933055affa6c524db785c9e5f2005e976d65e6c1296dffe740db56370b6b",
+    "site/exercises/customer-archetype-builder.html": "b06acff60bfc6c96a4cefcad551a7960c5cb78ac67b5759103eed2cebdabb64e",
+    "site/exercises/customer-discovery-questions.html": "f5e95c6402fda418f9de5c8a2e2846d6522f772c61e0714feece35b3369395a1",
+    "site/exercises/customer-field-notes-day-in-life.html": "fbadd666c5e04fb195a6460cfaf05118723d3bddf4f11eb51a7e1a8ead040bea",
+    "site/exercises/decision-matrix-builder.html": "7553f5b5a2472148ca3956ee6836027a9d4a4267c9fc9bf07a904c569837441d",
+    "site/exercises/decision-record.html": "f9596fb5aeefbc3b50a6a5df72ac1278795c4f18303ed701f7f96829b31fc20f",
+    "site/exercises/email-template-library.html": "471898ec2fc499d72bf06cdefc8d54e6ded5747439ee935b181efdae67e381fe",
+    "site/exercises/executive-briefing.html": "8d4777e09a4b091eeca9b5fdda40dd4210a6d58679fd5d384d51b09c48508398",
+    "site/exercises/finance-analyzer.html": "1f25e8198a0b55fab4f28293f94c1ef536510a19c49369d2ae058b9d0035b7ca",
+    "site/exercises/first-pull-request.html": "edd41fae7495c83f2f0034db1a7d8fb32cb5c9c824a2eae0ecead4b39a9b232e",
+    "site/exercises/first-repository-and-commit.html": "71b4dfed02d3c103437c311f6d9c6acede3356ecb12c04225cb04f99f4068336",
+    "site/exercises/industry-researcher.html": "52ba105b3f23697cda5b410f27a13b889c53674f229d9f3d430cb52a1ac4b078",
+    "site/exercises/interview-coach.html": "a97784862c371e54db985ef8bff35431d5fcc2acf196b242fdd8fb380ee8f669",
+    "site/exercises/landing-page-brief.html": "e27e852afe66f95f14a528477b2d2e2b303ce908e29d959a2d6f013713c7932c",
+    "site/exercises/linkedin-profile-optimizer.html": "7150da983bf062186e2dc1ee76ae3d3bef5bff721d1ce050c7bff3694183f060",
+    "site/exercises/negotiation-simulator.html": "7174a925fb8058f89e29e3c11b6725bdc060405975d4f265e26af13b929cd754",
+    "site/exercises/presentation-from-notes.html": "5096c63d880aa21f26cc12f1ccfca49afb4daeffbfea388f9fa47dc670c4faa5",
+    "site/exercises/project-brain.html": "5bc223aa1a142614bcc6c0253069e129e15a934d4aeb440e8ae0b16bd03b9c04",
+    "site/exercises/resume-tailorer.html": "c441404cbea98c8cc2786cacac1465a01fbe3a5decba02705e3b472fdb15d881",
+    "site/exercises/roadmap-builder.html": "3c8896ac565380fa1682bb8e46e0f71b0271eea98ce69aa157dc23c60762af4f",
+    "site/exercises/stakeholder-map-and-user-stories.html": "44a2953e786bd597e372d5b02826cdd655b9a4ff1c656febabac42aaf26cda4d",
+    "site/exercises/venture-problem-hypothesis.html": "60308981a762bf31ec5adca957036985cba473ed380571ffefb5605740c63d0b",
+    "site/exercises/workflow-library-builder.html": "64e77dccf57e4d055968d73a24150608122d76d22e0d58c1d860047e647468bb",
+    "site/glossary.html": "8b442a36b4eadf33bf787b0674ffa0cf3782ddc8f172e8acfa681c9de3ed70e1",
+    "site/index.html": "77c1e546289439bf3a3d31b597eb487e3699461370a299182cc16b467f7386b1",
+    "site/paths/mc1-overview.html": "b8a7dd9bda578b2b0e96f3af1e08338f978eb7edd6d593114e6e785ffb220aab",
+    "site/paths/mc1-path.html": "2b87fd77d7c09b98de639237e332a6a411a9829bc6d60376e7b93a5c1d2b6978",
+    "site/paths/mc1-reference.html": "97f3010d5e1e8209dc0edf3bc216ee609bd93e14d138cfb70cc6350041357523",
+    "site/paths/mc1-transfer.html": "97e2cdff6c254052d0b6ee4c3c3cf76fa3c5dc25f24932755694258faa7c776c",
+    "site/paths/mc2-overview.html": "d6ba2e63bd4dfd34b04b37d0a5373327bc5771b5ed99854d3ff12a382b443c61",
+    "site/paths/mc2-path.html": "bca14a09ea3931aea256062ecd1394ec171f2917a9d124ff6167c153cf477ae8",
+    "site/paths/mc2-reference.html": "80633575eb0e5ea08adfbaf81904fa7a08209e948a4690cdf210520c4dd8fbd1",
+    "site/paths/mc2-transfer.html": "a23440c3c4524bdd3906dd1f3f5738040737bbb140804364ec39b382a32db31f",
+    "site/paths/mc3-overview.html": "d35af686774fc3ea6899e09d688a9c86ce6c61ef92606077033980f9686db289",
+    "site/paths/mc3-path.html": "ceb367704188ca992c0d91b921230948e0146f903e08b49fb09894d2a581cc56",
+    "site/paths/mc3-reference.html": "697e5e3fabad5953af43729c4a08f92694006588b19652ce0a79ca19afebcf98",
+    "site/paths/mc3-transfer.html": "d8a629d450d524457d86c28e800d924007ae45a7841f218f793f54b6c7d2442e",
+    "site/paths/mc4-overview.html": "b68b1fdffd125d93617c7b0073b41c124d3e2eecbd67d9439042f79696a8357b",
+    "site/paths/mc4-path.html": "bd7acbcdf05b5a1501b06dc375c87fb20a745d875d55711ed4f95bfa6f108b43",
+    "site/paths/mc4-reference.html": "60e6f75b51a550bf876af5bca01a3fbe69d809803638429b1265c82899823e7a",
+    "site/paths/mc4-transfer.html": "09496ae5aacb9228cb5e3f65754088f8a2bacef8b092f9fb86b343cbe524f88e",
+    "site/paths/mc5-overview.html": "ce07e0f1dced5708fead36d57a125ce25ffb1e4dbbb4dd169e66a48fbf385dc7",
+    "site/paths/mc5-path.html": "df13db385cbfb46c95506d714654e03c0a99b074e12bf62b1118f96405f79e63",
+    "site/paths/mc5-reference.html": "2cda09ae123ef5987ca5681884ae6301766839b7b631bccee0404ae332dd0b29",
+    "site/paths/mc5-transfer.html": "0d189fed262bba4d7394e3f33c974a423af1d2093db9e03f3ee10280417b6dd7",
+    "site/paths/mc6-overview.html": "9d5333e92f6918852495926518030a36f8eaa0e8e88d4b2f3b04f7effd5ef996",
+    "site/paths/mc6-path.html": "c7135eb4524f1cbd6fbc4d02e56dd78f1555e76715c89c09394b2a9d84380e17",
+    "site/paths/mc6-reference.html": "6b625fe6124278f7df0f72454e09599a04fe83dac516b3a48ab2b910519ce817",
+    "site/paths/mc6-transfer.html": "2d68c9f8832845521f8a35cd19b6672dd48413ecfc130ecb8b04fef241f0677a",
+    "site/paths/mc7-overview.html": "6eba581d34e57d99a0c7193d3ff10bf91ee8f3d77e5e5c6e5e070ab35c057d37",
+    "site/paths/mc7-path.html": "693bb3ce1839ec024a2e551cae3ddb9600d5bf3697ca8b0a5e1c2bacc67128e5",
+    "site/paths/mc7-reference.html": "14a5f927b93956d873ac2927d18afafdf6716eed9cad037973e8dd6da5f8cbd1",
+    "site/paths/mc7-transfer.html": "9b85138fecbb6ef63d9089c346f39efb4b0acf495c7d5be7c8feeb8012e98c3b",
+    "site/style.css": "0562fc3b7b9f9732432fb09d1afa90c208b04d72dd20f800088e3f9800802164",
+    "tools/LICENSE": "eb9bb9ea5e3b1a7dbc8e098c025d1e058ddab6bdc1f41e2192c40f55b12ec0ca",
+    "tools/verify_release.py": "07652ff18f4ea058f142c00671e2321d1af42cba9024551d9e7bb22387a1c3e3"
+  }
+}

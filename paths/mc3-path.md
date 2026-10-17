@@ -1,0 +1,18 @@
+# Digital Marketing — Connected Exercise Path
+
+[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+
+<h2>Begin with evidence and a useful result</h2>
+<p>Choose one audience and an offer you can describe truthfully. Use Landing Page Brief to connect its problem, promise, supporting evidence and next action. If the evidence is only a hypothesis, label it and decide what you need to learn. A completed brief does not prove demand.</p>
+<p>If turning the audience, offer and evidence into a request is unfamiliar, see <a href="../basics/basics-04.md">Ask for What You Want</a>.</p>
+<h2>Carry the work into the next step</h2>
+<p>Carry the approved audience, offer and evidence into Ad Copy Builder. Keep the landing-page promise and ad promise consistent. Review claims, the call to action and the proposed test before using the material. If the critique exposes a weak offer, revise the brief first and recheck the ad; stronger wording cannot repair unsupported value.</p>
+<h2>Use only the support you need</h2>
+<p>LinkedIn Profile Optimizer is optional practice in communicating to a specific audience. It is a separate personal-profile task, not a prerequisite for launching an offer. You decide whether a profile is useful to this work.</p>
+<h2>Open the exercises</h2>
+<ul><li><a href="../exercises/landing-page-brief.md">Ex15 — Landing Page Brief</a></li>
+<li><a href="../exercises/ad-copy-builder.md">Ex14 — Ad Copy Builder</a></li>
+<li><a href="../exercises/linkedin-profile-optimizer.md">Ex04 — LinkedIn Profile Optimizer</a></li>
+</ul>
+<p>Follow the selected exercise’s instructions and checks; you choose which corrections to use.</p>
+<hr><p>This is alpha material. Report unclear instructions or errors through <a href="https://github.com/BigLeverVentures/bli-for-educators/issues">a public issue</a> or email help@bigleverinstitute.org. Share only redacted or fictional material.</p>

@@ -1,0 +1,69 @@
+# Ex01 — Resume Tailorer
+
+[Curriculum](../curriculum.md) · Alpha release · [Evidence and limits](../educators/evaluation.md)
+
+<div><p>Big Lever Institute · Exercise 01</p>
+<p>Turn your experience into a resume that makes the case for an interview. Match the role, strengthen the bullets, and find what could make the application better.</p>
+<div><span>Step 1</span>
+</div>
+<h2>Start with your resume</h2>
+<p>The goal is to get an employer interested enough to invite you to an interview. Start a new chat and upload your draft resume, or paste its text. Have the job description ready too.</p>
+<p>If supplying a résumé as text or a file is unfamiliar, <a href="../basics/basics-06.md">Give AI Text or a File to Work From</a> shows both routes.</p>
+<p>If you are unsure how to upload a file, ask your AI assistant: “How do I upload my resume to this chat?” You can ask it for the next step whenever you get stuck.</p>
+<p>New to using or adapting a prompt? <a href="../basics/basics-04.md">Ask for What You Want</a> shows how.</p>
+If you do not have a resume yet<p>Copy the prompt below, paste it into the chat, and send it. The assistant will help you gather your experience and build a draft before you tailor it to a job.</p>
+<div><div>Prompt — help me build a resume</div>
+<p><strong>Copy this prompt</strong></p>
+<blockquote><p>Help me build a resume from my experience. Ask me for the information you need, a few questions at a time: my name, city, contact details I want included, target roles, employment history, education, and relevant projects, skills, or volunteer work.</p>
+<p>For each role, help me describe what I did, what changed as a result, and why that mattered to the business or organization. Ask follow-up questions to uncover accomplishments and useful measures of impact. If I do not have a number, help me describe the result specifically without inventing one.</p>
+<p>If I am unsure how to describe experience, help me find the transferable skills in it. Once you have enough information, draft my resume and identify what still needs strengthening. Start with your first questions.</p>
+</blockquote>
+</div>
+
+<div><span>Step 2</span>
+</div>
+<h2>Fit your experience to the role</h2>
+<p>Copy this prompt into the same chat. Replace the bracketed text with the job description, then send it. The assistant will use the resume you already supplied.</p>
+<div><div>Prompt — tailor my resume to this job</div>
+<p><strong>Copy this prompt</strong></p>
+<blockquote><p>Take my resume and fit it as strongly as you can to the job description below. The goal is to make the employer want to interview me.</p>
+<p>Job description:</p>
+<p>[PASTE THE JOB DESCRIPTION HERE]</p>
+<p>Identify the employer&#x27;s most important requirements. Match the language, emphasis, and professional tone of the listing to my relevant qualifications and experience. Use its keywords where they accurately describe my work. Keep job titles, employers, dates, and career history clear.</p>
+<p>For experience bullets, use: what I did → the result → the business or organizational impact. Ask me for missing results, measures, or context that could make an important bullet stronger. Use numbers when I can support them; otherwise use specific descriptions of the outcome.</p>
+<p>Look for transferable experience, projects, education, or other evidence that could strengthen a weak match. If a qualification appears missing, ask whether I have relevant experience not yet captured or another way to demonstrate it. Do not invent experience or achievements to fill gaps.</p>
+<p>Give me a tailored resume, followed by a short list of the weakest areas and focused questions to help me improve them. If you cannot access my uploaded resume, ask me to paste it. If essential information is missing, ask before drafting; otherwise work with what you have.</p>
+</blockquote>
+</div>
+<p>Answer its questions about weaker areas. Experience you left out of the original resume may be relevant here: a project, a different job, volunteer work, or a result you had not thought to describe.</p>
+<div><div>The bullet formula</div>
+<p><strong>What you did → the result → the business impact.</strong> The result explains what changed; the impact explains why it mattered. For example, improving a reporting process is more useful to a hiring manager when the bullet also explains how that helped the team make decisions or deliver work. Ask the assistant to help you uncover that connection in your own experience.</p>
+</div>
+
+<div><span>Step 3</span>
+</div>
+<h2>Read it like the hiring manager</h2>
+<p>Now challenge the draft. Copy the prompt below into the same chat and send it. You are looking for the strongest case for an interview, not just a more polished document.</p>
+<div><div>Prompt — challenge the resume</div>
+<p><strong>Copy this prompt</strong></p>
+<blockquote><p>Read this resume as a hiring manager deciding whether to offer an interview. Compare it with the job description and my supplied experience.</p>
+<p>Where is the case for interviewing me weakest? Which bullet describes a task but not its result or business impact? Where does the language miss the employer&#x27;s priorities? What relevant transferable experience could I explore to strengthen the match?</p>
+<p>Also flag claims that go beyond what I supplied or wording that could mislead the employer. For the most important issues, explain why each matters and ask a focused question that would help me improve it. Distinguish a genuine qualification gap from a gap in how I have described my experience. Do not rewrite yet or invent objections just to find fault.</p>
+</blockquote>
+</div>
+<p>Decide which points matter and answer the questions. Tell the assistant what to change and why. After a substantial revision, ask it to recheck the changed bullets against the job description and your experience. Stop when the important concerns are resolved or you know what additional information you need.</p>
+<p>If you need a cover letter, ask it to write one using the strongest evidence from the revised resume. Before applying, check the final wording, contact details, dates, and formatting yourself.</p>
+
+<div><span>Step 4</span>
+</div>
+<h2>Keep what worked</h2>
+<p>Save your revised resume for this application. If the conversation uncovered an accomplishment or a stronger way to describe your experience, ask the assistant to add that improvement to your master resume too. Keep wording specific to this employer in the tailored version.</p>
+<p>For continuing job-search work, <a href="../basics/basics-08.md">Set Up a Project for Continuing Work</a> offers saved-workspace and pasted-context options. A single application does not require a Project.</p>
+<p>Review the changes against your experience before saving the master resume. For another application, return to this chat or supply your current master resume and the new job description. Use the tailoring and critique prompts again.</p>
+<p>If you want a repeatable process, make a Project for your job search and add your master resume and useful writing examples. Ask your assistant: “How do I set up a Project for tailoring my resume to different job descriptions?” It can walk you through the setup.</p>
+
+<div><h3>What you have now</h3>
+<p>A resume shaped around the role, stronger action–result–impact bullets, and a clearer view of where your qualifications need more evidence. For another application, bring a new job description and use the same tailoring and critique prompts.</p>
+</div>
+</div>
+<hr><p>This is alpha material. Report unclear instructions or errors through <a href="https://github.com/BigLeverVentures/bli-for-educators/issues">a public issue</a> or email help@bigleverinstitute.org. Share only redacted or fictional material.</p>

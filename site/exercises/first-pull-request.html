@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Ex19 — First Pull Request — BLI for Educators</title><link rel="stylesheet" href="../style.css"><script src="../copy.js" defer></script></head><body><main><nav aria-label="Main"><a href="../index.html">Curriculum</a><a href="https://github.com/BigLeverVentures/bli-for-educators">Educator playbook on GitHub</a></nav><h1>Ex19 — First Pull Request</h1><p>Let another person review a small software change before it joins the shared version.</p>
+<h2>Start with your task</h2>
+<p>Start with a repository you own and a harmless small improvement. First Repository gives you local history; a pull request adds a proposed change and a review conversation on a host.</p>
+<p>You need: A repository you can contribute to, a GitHub account or another hosting service with merge requests, and permission to push a branch or contribute through a fork.</p>
+<p><strong>Need the setup first?</strong> Open <a href="first-repository-and-commit.html">First Repository and Commit</a>. A pull request also needs an account on your chosen code host and permission to contribute. Ask your assistant to explain the sign-up and repository access steps before doing them; keep passwords and sign-in codes out of the chat.</p>
+<h2>Build</h2>
+<p>Copy this into your assistant, replace the bracketed inputs, and provide the relevant material. Approve the approach before acting.</p>
+<p>New to using or adapting a prompt? <a href="../basics/basics-04.html">Ask for What You Want</a> shows how.</p>
+<p><strong>Copy this prompt</strong></p>
+<blockquote><p>Help me prepare my first pull request for [repository and host]. I want to change [small outcome]. My access is [owner/contributor/fork/unknown], current branch/status is [actual output], and the repository instructions are [text]. Inspect or ask for the base branch, contribution rules, existing changes, and applicable checks.</p>
+<p>Propose a focused approach and let me approve it. Do not assume the base branch is named main. Inspect whether the intended change already lives on a feature branch. If it does, verify its base and focused diff and reuse it; do not reconstruct the change on a second branch.</p>
+<p>If work has not started, make a separate branch from the current approved base before editing, without overwriting unrelated changes. If that cannot be done safely, pause and explain the options. Help me make and commit only this change, run the relevant available checks, and inspect the diff against the base. Never claim unrun checks passed.</p>
+<p>Prepare a title and description naming the problem, resulting behavior, checks and limitations. Push only the intended branch and create a draft pull request when available. Wait for my approval before merging or sending reviewer invitations. Do not force push, discard work, or treat the PR as merged because it exists.</p>
+<p>If you cannot use tools, guide me one step at a time and ask for outputs. Before I approve the approach, challenge it briefly: is the base and contribution access established, is unrelated work protected, and will the proposed checks and base diff show only the intended change? Let me choose corrections before branching or editing.</p>
+</blockquote>
+<h2>Check the result</h2>
+<p>Paste this review prompt into the same chat with the actual result and evidence. In a new chat, include your task, source material, result and observed checks. Choose the corrections before requesting a replacement artifact.</p>
+<p>Use the evidence from your work with this review prompt.</p>
+<p><strong>Copy this prompt</strong></p>
+<blockquote><p>Review this proposed pull request as a first-time contributor: [base, branch, diff, description, check results, repository rules]. Does it solve the stated problem with a focused change? Check for unrelated edits, wrong base, missing checks, exposed secrets, and a description that overclaims testing.</p>
+<p>Identify the most consequential supported issues and explain how to verify them. Let me choose the correction; review a materially changed diff again. Tell me what is ready for human review and what remains unresolved. Do not merge or notify anyone. Do not rewrite, supply replacement code or artifacts, or apply changes yet.</p>
+<p>Explain the supported corrections and wait for my choice. Distinguish demonstrated failures from inferred causes; do not invent test history.</p>
+</blockquote>
+<h2>Choose, revise, and use</h2>
+<p>Open the PR and inspect its Files changed and checks on the host. A saved local commit or a successful push alone does not prove the PR has the intended base and diff. Respond to feedback with a reasoned choice and fresh checks. Merge only under the repository rules and your authority.</p>
+<p>For help distinguishing a claimed action from an actual saved result, see <a href="../basics/basics-09.html">Check Your Work and Choose What Comes Next</a>. You still inspect the host’s real base, diff and checks.</p>
+<h2>Carry it forward</h2>
+<p>Use the same pattern for another small change: approved base, focused branch, relevant checks, readable diff, human decision.</p>
+<hr><p>This is alpha material. Report unclear instructions or errors through <a href="https://github.com/BigLeverVentures/bli-for-educators/issues">a public issue</a> or email help@bigleverinstitute.org. Share only redacted or fictional material.</p><footer>Big Lever Institute · Free practical AI education · Alpha material. <a href="https://github.com/BigLeverVentures/bli-for-educators/blob/main/LICENSE.md">Reuse permissions</a> · <a href="https://bigleverinstitute.org/privacy">Privacy</a></footer></main></body></html>
